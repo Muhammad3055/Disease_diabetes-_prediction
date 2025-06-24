@@ -39,4 +39,4 @@ This project aims to build a medical prediction model that can help in the **ear
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python train_model.py
+python disease_diabetes_prediction.py
